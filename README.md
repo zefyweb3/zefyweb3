@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20TZR%20GitHub%20&center=true&width=300&height=40&color=FFD700&vCenter=true&size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20zefy%20github%20&center=true&width=300&height=40&color=FFD700&vCenter=true&size=22" alt="Typing SVG">
 </p>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z2bTR2N2Jsdnc3Z2Q2bTlhaTZyOWg3Y3BtY21seWV0ZWlmaGwzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MWas87mX5Y8IkfD3ox/giphy.gif" width="75" alt="Profile Picture"/>
@@ -14,15 +14,15 @@ Hi, I'm TZR
 
 ---
 
-<a href="https://x.com/tzrcrypto?t=eBe8Q6AmIj4dZ4_DNuKf7A&s=09" target="_blank">
+<a href="https://x.com/zefyweb3?t=eBe8Q6AmIj4dZ4_DNuKf7A&s=09" target="_blank">
   <img src="https://img.shields.io/badge/X-24292f?style=plastic&logo=twitter&logoColor=white" alt="X (Twitter)">
 </a>
 &nbsp;
-<a href="https://t.me/tzrcrypto" target="_blank">
+<a href="https://t.me/zefyweb3" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-191970?style=plastic&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/tzrcrypto" target="_blank"> 
+<a href="www.linkedin.com/in/zefyweb3" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-191970?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </div>
